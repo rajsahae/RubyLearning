@@ -1,0 +1,8 @@
+Loaded suite F:/User Data/rsahae/My Documents/My Dropbox/Workspace/RubyLearning/mazes/maze_test
+Started
+.....
+Finished in 0.015626 seconds.
+
+5 tests, 12 assertions, 0 failures, 0 errors, 0 skips
+
+Test run options: --seed 42014

@@ -1,0 +1,8 @@
+Loaded suite F:/User Data/rsahae/My Documents/My Dropbox/Workspace/RubyLearning/print_poly/polynomial_test
+Started
+.....
+Finished in 0.000000 seconds.
+
+5 tests, 6 assertions, 0 failures, 0 errors, 0 skips
+
+Test run options: --seed 11252
